@@ -1,6 +1,6 @@
 # Notes_frame_07_-MIP-
 
-*MIP (Minimum Illustratable Product) > think wireframing, but with code*
+> MIP (Minimum Illustratable Product) *think wireframing, but with code*_
 An intuitive approach in attempting to solve some problems the author of this project observed while serving as a teacher in the Elementary School System... Details are provide in [Notebook's Mission](Revised_Mobile_app_Development_Proposal.pdf)  
 
 ## Preview
