@@ -5,11 +5,11 @@
 An intuitive approach in attempting to solve some problems the author of this project observed while serving as a teacher in the Elementary School System... Details are provide in [Notebook's Mission](Revised_Mobile_app_Development_Proposal.pdf)  
 
 ## Preview
-<img src="s1.png" alt="product illustration" width="350">
+<img src="s1.png" alt="product illustration" width="450">
 
 
 ## ALERT
-**This is a simple illustration... The author of this project does not recommend copying this code as there are MANY bad practice methods which never got to be refactored. But it works!!!**
+**This is a simple illustration... The author of this project does not recommend copying this code as there are MANY bad practice methods which never got to be refactored. Poorly written segments of the codebase were excluded!**
 
 ## Features
 - Lessons Section of the app where pupils, parents and teachers gain access to pupils subjects topics | requirements | and explanations, ranked by grade...
