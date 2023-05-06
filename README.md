@@ -5,7 +5,7 @@
 An intuitive approach in attempting to solve some problems the author of this project observed while serving as a teacher in the Elementary School System... Details are provide in [Notebook's Mission](Revised_Mobile_app_Development_Proposal.pdf)  
 
 ## Preview
-<img src="s1.png" alt="product illustration" width="450">
+<img src="s1.png" alt="product illustration" width="600">
 
 
 ## ALERT
